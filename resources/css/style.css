@@ -1,0 +1,16 @@
+* {
+  text-align: center;
+  background-color: black;
+}
+
+h1 {
+  font-family: Verdana, sans-serif;
+  font-weight: normal;
+  color: white;
+}
+
+h4 {
+  font-family: sans-serif;
+  font-size: 16px;
+  color: Aquamarine;
+}
